@@ -1,0 +1,24 @@
+Terminal에서 우측 + 옆에 아래 화살표같은 모양 클릭 -> Command Prompt 선택
+
+MSDH Project\MSDH 들어가 있는 상태가 확인이 되면, (MSDH Project에 있다면 'cd MSDH' 입력)
+
+
+
+'git pull' 입력하면 github에 제일 최신으로 업로드 된 것들이 컴퓨터로 불러와지는거에요.
+
+걍 거기서 수정할거 수정하고 Ctrl + S로 저장을 한다. (이건 뭐 다 그런거자나)
+
+파이썬 프로그램 실행시키고 싶으면 'python 파일이름.py' 입력하면 됨.
+
+'git add .'
+'git commit -m "수정내용혹은남기고싶은코멘트"'
+'git push'
+
+
+
+
+
+
+
+
+
